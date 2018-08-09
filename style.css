@@ -1,0 +1,13 @@
+div{
+    background-color: black;
+    color: whitesmoke;
+    font-size: 6em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+body,html {
+    height: 100%;
+}
